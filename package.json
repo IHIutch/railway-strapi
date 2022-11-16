@@ -15,7 +15,11 @@
     "@strapi/plugin-users-permissions": "4.1.9",
     "@strapi/provider-upload-cloudinary": "4.1.9",
     "@strapi/strapi": "4.1.9",
-    "pg": "8.7.3"
+    "pg": "8.7.3",
+    "redaxios": "^0.5.1",
+    "slugify": "^1.6.5",
+    "strapi-plugin-preview-button": "^1.0.0",
+    "strapi-plugin-sitemap": "^2.0.8"
   },
   "author": {
     "name": "A Strapi developer"
