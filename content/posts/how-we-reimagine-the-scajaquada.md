@@ -4,31 +4,31 @@ With multiple goals: including reuniting the separated sections of Delaware Park
 
 ## Black Rock Harbor
 
-![SCCVisionReimaginedBlackRockHarbor.jpg](https://bvozupfdsubbojpqsspf.supabase.co/storage/v1/object/public/public/uploads/SCC_Vision_Reimagined_Black_Rock_Harbor_f052dfbe34.jpg)
+![SCCVisionReimaginedBlackRockHarbor.jpg](https://res.cloudinary.com/ihiutch/image/upload/v1668614674/SCC_Vision_Reimagined_Black_Rock_Harbor_1ee68bfc45.jpg)
 
 _Bird's eye view facing north/northeast, from above the Black Rock Canal, looking toward Tonawanda and Amherst Streets at the restored historic Black Rock Harbor and the mouth of Scajaquada Creek.  The waterfront campus of Buffalo State College is in the distance._
 
 ## Scajaquada Creek Corridor
 
-![SCCVisionRevitalizedScajaquadaCreekCorridor.jpg](https://bvozupfdsubbojpqsspf.supabase.co/storage/v1/object/public/public/uploads/SCC_Vision_Revitalized_Scajaquada_Creek_Corridor_370d293c05.jpg)
+![SCCVisionRevitalizedScajaquadaCreekCorridor.jpg](https://res.cloudinary.com/ihiutch/image/upload/v1668614673/SCC_Vision_Revitalized_Scajaquada_Creek_Corridor_71234efba4.jpg)
 
 _Facing east, along the former Scajaquada Expressway in the vicinity of Wegmans on Amherst Street, overlooking Scajaquada Creek near the finger dam, and viewing Buffalo State College as a revitalized waterfront campus._
 
 ## Hoyt Lake
 
-![HoytLakec1SCC1.jpg](https://bvozupfdsubbojpqsspf.supabase.co/storage/v1/object/public/public/uploads/Hoyt_Lakec1_SCC_1_179d8da55f.jpg)
+![HoytLakec1SCC1.jpg](https://res.cloudinary.com/ihiutch/image/upload/v1668614674/Hoyt_Lakec1_SCC_16eca2410e.jpg)
 
 _Facing northwest toward the History Museum over an expanded Hoyt Lake, with islands and peninsulas restored to Delaware Park._
 
 ## Delaware Park
 
-![SCCVisionConnectedDelawarePark.jpg](https://bvozupfdsubbojpqsspf.supabase.co/storage/v1/object/public/public/uploads/SCC_Vision_Connected_Delaware_Park_38034e9eb2.jpg)
+![SCCVisionConnectedDelawarePark.jpg](https://res.cloudinary.com/ihiutch/image/upload/v1668614675/SCC_Vision_Connected_Delaware_Park_72f3e42638.jpg)
 
 _Facing southwest in Delaware Park, from the Point of the Meadow Shelter and soccer fields overlooking a reconnected historic Olmsted park across the Stone Arch Bridge, which sits between the Meadow side of the park and the Hoyt Lake side of the park._
 
 ## Humboldt Parkway
 
-![SCCVisionRestoredHumboldtParkway.jpg](https://bvozupfdsubbojpqsspf.supabase.co/storage/v1/object/public/public/uploads/SCC_Vision_Restored_Humboldt_Parkway_f93db6c81f.jpg)
+![SCCVisionRestoredHumboldtParkway.jpg](https://res.cloudinary.com/ihiutch/image/upload/v1668614673/SCC_Vision_Restored_Humboldt_Parkway_d22c8db33e.jpg)
 
 _Facing northwest along the former Scajaquada Expressway, between Trinidad/Sisters Hospital and Hamlin Park/Canisius College overlooking the restored Humboldt Parkway._
 

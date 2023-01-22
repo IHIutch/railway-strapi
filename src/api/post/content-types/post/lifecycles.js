@@ -1,39 +1,22 @@
-const axios = require("axios");
 const slugify = require("slugify");
+
+const handleSlugify = (value) => {
+  slugify(value, {
+    lower: true,
+    strict: true,
+    remove: /[*+~.()'"!:@|]/g,
+  });
+};
 
 module.exports = {
   async beforeCreate({ params: { data } }) {
     if (data.title) {
-      data.slug = slugify(data.title, {
-        lower: true,
-        strict: true,
-      });
+      data.slug = handleSlugify(data.title);
     }
   },
   async beforeUpdate({ params: { data } }) {
     if (data.title) {
-      data.slug = slugify(data.title, {
-        lower: true,
-        strict: true,
-      });
-    }
-  },
-  async afterUpdate({ result }) {
-    if (result.publishedAt) {
-      try {
-        const baseUrl =
-          process.env.NODE_ENV === "production"
-            ? process.env.STRAPI_PREVIEW_PUBLISHED_URL
-            : "http://localhost:3000";
-
-        await axios.get(`${baseUrl}/api/revalidate/blog/${result.slug}`, {
-          params: {
-            secret: process.env.STRAPI_PREVIEW_SECRET,
-          },
-        });
-      } catch (error) {
-        console.error(`Revalidation error: ${error.message}`);
-      }
+      data.slug = handleSlugify(data.title);
     }
   },
 };
